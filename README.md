@@ -1,0 +1,1 @@
+# cubid-mediation-cubex-ios-sdk-spm
